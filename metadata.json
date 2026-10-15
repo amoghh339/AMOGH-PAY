@@ -1,0 +1,6 @@
+{
+  "name": "AmoghPay",
+  "description": "Zero bank account UPI prepaid wallet & numberless card app with KYC verification and OTP authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
